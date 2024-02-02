@@ -1,0 +1,160 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "1984",
+      "author": "George Orwell",
+      "image": "https://picsum.photos/800",
+      "year": 1949,
+      "page": 328,
+      "description": "In a dystopian society under constant surveillance, a man rebels against the oppressive regime, discovering the power of resistance and the fragility of truth."
+    },
+    {
+      "id": 2,
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "image": "https://picsum.photos/801",
+      "year": 1932,
+      "page": 288,
+      "description": "In a futuristic society where stability and happiness are paramount, one man questions the price of conformity and explores the meaning of individuality."
+    },
+
+    {
+      "id": 3,
+      "title": "The Handmaid's Tale",
+      "author": "Margaret Atwood",
+      "image": "https://picsum.photos/802",
+      "year": 1985,
+      "page": 311,
+      "description": "In a theocratic dystopia, women are reduced to mere vessels for procreation, but one woman finds hope in rebellion and seeks to reclaim her autonomy."
+    },
+
+    {
+      "id": 4,
+      "title": "Fahrenheit 451",
+      "author": "Ray Bradbury",
+      "image": "https://picsum.photos/803",
+      "year": 1953,
+      "page": 249,
+      "description": "In a world where books are banned and firemen burn knowledge, one man risks everything to preserve the power of literature and free thought."
+    },
+
+    {
+      "id": 5,
+      "title": "Animal Farm",
+      "author": "George Orwell",
+      "image": "https://picsum.photos/804",
+      "year": 1945,
+      "page": 112,
+      "description": "A farm where animals revolt against their human oppressors turns into a cautionary tale about the corrupting nature of power and the dangers of totalitarianism."
+    },
+
+    {
+      "id": 6,
+      "title": "Neuromancer",
+      "author": "William Gibson",
+      "image": "https://picsum.photos/805",
+      "year": 1984,
+      "page": 271,
+      "description": "In the gritty world of cyberspace, a washed-up hacker is hired for a job that thrusts him into a web of corporate intrigue, artificial intelligence, and existential crisis."
+    },
+
+    {
+      "id": 7,
+      "title": "Do Androids Dream of Electric Sheep?",
+      "author": "Philip K. Dick",
+      "image": "https://picsum.photos/806",
+      "year": 1968,
+      "page": 256,
+      "description": "In a post-apocalyptic world, a bounty hunter pursues rogue androids and grapples with questions of empathy, identity, and the nature of humanity."
+    },
+
+    {
+      "id": 8,
+      "title": "The Giver",
+      "author": "Lois Lowry",
+      "image": "https://picsum.photos/807",
+      "year": 1993,
+      "page": 179,
+      "description": "In a seemingly perfect society devoid of pain and suffering, a young boy discovers the dark truth lurking beneath the surface and embarks on a journey of self-discovery."
+    },
+
+    {
+      "id": 9,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "image": "https://picsum.photos/808",
+      "year": 1925,
+      "page": 180,
+      "description": "Set in the Roaring Twenties, this novel follows the enigmatic Jay Gatsby as he pursues the elusive American Dream and grapples with love, wealth, and the pursuit of happiness."
+    },
+
+    {
+      "id": 10,
+      "title": "Slaughterhouse-Five",
+      "author": "Kurt Vonnegut",
+      "image": "https://picsum.photos/809",
+      "year": 1969,
+      "page": 275,
+      "description": "Following the life of Billy Pilgrim, an optometrist who becomes 'unstuck in time' and experiences various moments of his life, including his time as a prisoner of war in World War II and his abduction by aliens."
+    },
+
+    {
+      "id": 11,
+      "title": "Divergent",
+      "author": "Veronica Roth",
+      "image": "https://picsum.photos/810",
+      "year": 2011,
+      "page": 487,
+      "description": "In a divided society where people are classified by virtues, one young woman discovers she doesn't fit into any single category, threatening the fragile peace and sparking revolution."
+    },
+
+    {
+      "id": 12,
+      "title": "The Maze Runner",
+      "author": "James Dashner",
+      "image": "https://picsum.photos/811",
+      "year": 2009,
+      "page": 374,
+      "description": "Trapped in a mysterious maze with no memory of his past, a teenage boy must navigate deadly challenges and uncover the truth about his existence to escape."
+    },
+
+    {
+      "id": 13,
+      "title": "The Road",
+      "author": "Cormac McCarthy",
+      "image": "https://picsum.photos/812",
+      "year": 2006,
+      "page": 287,
+      "description": "In a post-apocalyptic world ravaged by an unspecified cataclysm, a father and son journey across a desolate landscape, struggling to survive and retain their humanity."
+    },
+
+    {
+      "id": 14,
+      "title": "Lord of the Flies",
+      "author": "William Golding",
+      "image": "https://picsum.photos/813",
+      "year": 1954,
+      "page": 224,
+      "description": "Marooned on a deserted island, a group of boys descends into savagery as they grapple with fear, power, and the darker aspects of human nature."
+    },
+    {
+      "id": 16,
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "image": "https://picsum.photos/815",
+      "year": 1951,
+      "page": 277,
+      "description": "Following his expulsion from prep school, Holden Caulfield roams the streets of New York City, grappling with alienation, identity, and the phoniness of adult society."
+    },
+    {
+      "id": 17,
+      "title": "The Martian",
+      "author": "Andy Weir",
+      "image": "https://picsum.photos/817",
+      "year": 2011,
+      "page": 369,
+      "description": "When an astronaut is mistakenly presumed dead and left behind on Mars, he must rely on his ingenuity and wit to survive and signal to Earth that he is alive."
+    }
+  ]
+}
